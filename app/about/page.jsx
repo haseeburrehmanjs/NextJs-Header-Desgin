@@ -12,6 +12,7 @@ const About = () => {
                         <ul className='flex gap-5 mt-6 text-1xl'>
                             <li className='hover:border-b'><Link href={'/'}>Home</Link></li>
                             <li className='hover:border-b'><Link href={'about'}>About</Link></li>
+                            <li className='hover:border-b'><Link href={'project'}>Projects</Link></li>
                         </ul>
                     </div>
 
@@ -20,7 +21,7 @@ const About = () => {
                             Let's Work Together
                         </h1>
                         <ul className='flex gap-5 mt-5 text-3xl font-bold'>
-                            <li>Linkedin</li>
+                            <li><link rel="stylesheet" href="https//google.com" />Linkedin</li>
                             <li>Github</li>
                             <li>Facebook</li>
                         </ul>
